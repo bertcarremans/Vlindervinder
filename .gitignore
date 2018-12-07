@@ -1,4 +1,8 @@
 flickr/img/
+flickr/config.py
 flickr/.ipynb_checkpoints/
 model/.ipynb_checkpoints/
 data_augmentation/.ipynb_checkpoints/
+butterflies/
+butterflies.zip
+settings.json
